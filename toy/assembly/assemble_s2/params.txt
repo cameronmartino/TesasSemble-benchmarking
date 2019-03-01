@@ -1,0 +1,36 @@
+Command line: /Users/cameronmartino/bin/SPAdes-3.13.0-Darwin/bin/spades.py	--meta	-k	21,33,55,77	-o	/Users/cameronmartino/bin/TesasSemble-benchmarking/toy/assembly/assemble_s2	-1	/Users/cameronmartino/bin/TesasSemble-benchmarking/toy/fastqs/S1_L001_R1_001.fastq	-2	/Users/cameronmartino/bin/TesasSemble-benchmarking/toy/fastqs/S1_L001_R2_001.fastq	--phred-offset	33	
+
+System information:
+  SPAdes version: 3.13.0
+  Python version: 3.6.5
+  OS: Darwin-17.7.0-x86_64-i386-64bit
+
+Output dir: /Users/cameronmartino/bin/TesasSemble-benchmarking/toy/assembly/assemble_s2
+Mode: read error correction and assembling
+Debug mode is turned OFF
+
+Dataset parameters:
+  Metagenomic mode
+  Reads:
+    Library number: 1, library type: paired-end
+      orientation: fr
+      left reads: ['/Users/cameronmartino/bin/TesasSemble-benchmarking/toy/fastqs/S1_L001_R1_001.fastq']
+      right reads: ['/Users/cameronmartino/bin/TesasSemble-benchmarking/toy/fastqs/S1_L001_R2_001.fastq']
+      interlaced reads: not specified
+      single reads: not specified
+      merged reads: not specified
+Read error correction parameters:
+  Iterations: 1
+  PHRED offset: 33
+  Corrected reads will be compressed
+Assembly parameters:
+  k: [21, 33, 55, 77]
+  Repeat resolution is enabled
+  Mismatch careful mode is turned OFF
+  MismatchCorrector will be SKIPPED
+  Coverage cutoff is turned OFF
+Other parameters:
+  Dir for temp files: /Users/cameronmartino/bin/TesasSemble-benchmarking/toy/assembly/assemble_s2/tmp
+  Threads: 16
+  Memory limit (in Gb): 250
+
