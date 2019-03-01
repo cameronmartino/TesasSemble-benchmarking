@@ -2,7 +2,7 @@
 max read length: 250
 nomerge max read length: 250
 average read length: 250
-average coverage: 1.32325
+average coverage: 6.23301
 libraries:       
     - type:            paired-end
       orientation:     fr
@@ -26,8 +26,8 @@ libraries:
         binary converted: true
         single reads mapped: false
         library index:   0
-        number of reads: 2473
-        total nucleotides: 618250
+        number of reads: 5845
+        total nucleotides: 1461250
     - type:            path-extend-contigs
       single reads:    
         - /Users/cameronmartino/bin/TesasSemble-benchmarking/toy/assembly/assemble_s2//K77/first_pe_contigs.fasta

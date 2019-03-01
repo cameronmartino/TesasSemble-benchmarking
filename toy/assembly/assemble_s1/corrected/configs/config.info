@@ -1,7 +1,7 @@
 ; = HAMMER =
 ; input options: working dir, input files, offset, and possibly kmers
 dataset /Users/cameronmartino/bin/TesasSemble-benchmarking/toy/assembly/assemble_s1/input_dataset.yaml
-input_working_dir /Users/cameronmartino/bin/TesasSemble-benchmarking/toy/assembly/assemble_s1/tmp/hammer_gHFjlR
+input_working_dir /Users/cameronmartino/bin/TesasSemble-benchmarking/toy/assembly/assemble_s1/tmp/hammer_rys3lqpu
 input_trim_quality			4
 input_qvoffset 33
 output_dir /Users/cameronmartino/bin/TesasSemble-benchmarking/toy/assembly/assemble_s1/corrected

@@ -18,7 +18,7 @@ dataset /Users/cameronmartino/bin/TesasSemble-benchmarking/toy/assembly/assemble
 log_filename    log.properties
 
 output_base /Users/cameronmartino/bin/TesasSemble-benchmarking/toy/assembly/assemble_s1
-tmp_dir /Users/cameronmartino/bin/TesasSemble-benchmarking/toy/assembly/assemble_s1/tmp/spades_GyE3HV
+tmp_dir /Users/cameronmartino/bin/TesasSemble-benchmarking/toy/assembly/assemble_s1/tmp/spades_jyr0rq5n
 
 main_iteration false
 ; iterative mode switcher, activates additional contigs usage
