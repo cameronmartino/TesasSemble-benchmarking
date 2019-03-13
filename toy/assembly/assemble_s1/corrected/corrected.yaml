@@ -1,8 +1,0 @@
-- "left reads":
-  - "/Users/cameronmartino/bin/TesasSemble-benchmarking/toy/assembly/assemble_s1/corrected/S0_L001_R1_001.00.0_0.cor.fastq.gz"
-  "orientation": "fr"
-  "right reads":
-  - "/Users/cameronmartino/bin/TesasSemble-benchmarking/toy/assembly/assemble_s1/corrected/S0_L001_R2_001.00.0_0.cor.fastq.gz"
-  "single reads":
-  - "/Users/cameronmartino/bin/TesasSemble-benchmarking/toy/assembly/assemble_s1/corrected/S0_L001_R_unpaired.00.0_0.cor.fastq.gz"
-  "type": "paired-end"

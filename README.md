@@ -2,14 +2,9 @@
 
 Benchmarking for TesasSemble
 
-# Toy
+# simulation_benchmarking
 
-Simple low-depth but high coverage synthetically generated reads. Two samples for slightly altered genomes (i.e. phylogenetically simillar).
+Four simillar taxa (different strains) generated reads over time using the [CAMISM](https://github.com/CAMI-challenge/CAMISIM) generation tool with proportions (fig 1 below) and results (figure 2 below). 
 
-# Low-complexity
-
-Three simillar taxa (different strains of E. Coli) generated reads over time using the [CAMISM](https://github.com/CAMI-challenge/CAMISIM) generation tool. 
-
-# High-complexity
-
-TODO
+![fig 1](simulation_benchmarking/figures/fig_1.png)
+![fig 2](simulation_benchmarking/figures/fig_1_res.png)
